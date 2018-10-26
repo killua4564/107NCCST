@@ -1,0 +1,9 @@
+rar的password在pcap裡
+
+解開的txt可以存成rtf檔
+
+rtf用hexfriend查看object area發現hex
+
+丟python binascii.unhexlify發現value區有flag
+
+Gold{skrskrnccst}
